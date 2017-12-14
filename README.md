@@ -1,4 +1,4 @@
 # Binomialverteilung/Binomialtest
 
-Ein Jupyter Notebook das eine Binomialverteilung plottet und
-Signifikanzgrenze anzeigt.
+Ein [Jupyter Notebook](https://jupyter.org/) das eine
+Binomialverteilung plottet und Signifikanzgrenze anzeigt.
